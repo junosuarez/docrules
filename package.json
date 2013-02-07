@@ -1,0 +1,21 @@
+{
+  "name": "docrules",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "chai": "~1.5.0",
+    "chai-interface": "~1.0.1",
+    "sinon": "~1.5.2",
+    "sinon-chai": "~2.3.1"
+  }
+}

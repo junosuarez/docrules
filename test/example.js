@@ -53,7 +53,7 @@ describe('example', function () {
 
 
     var report = rules.run(data)
-    console.log('report: \n',report)
+    //console.log('report: \n',report)
     // console.log('report', report.length, report)
     // console.log(require('util').inspect(rules, true, 5))
     // console.log(data)

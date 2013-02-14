@@ -1,7 +1,7 @@
 {
   "name": "docrules",
-  "version": "0.0.0",
-  "description": "ERROR: No README.md file found!",
+  "version": "0.1.0",
+  "description": "pattern matching declarative assertion framework for documents",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
   },
   "repository": "",
   "author": "",
-  "license": "BSD",
+  "license": "MIT",
   "devDependencies": {
     "chai": "~1.5.0",
     "chai-interface": "~1.0.1",
@@ -19,6 +19,5 @@
     "sinon-chai": "~2.3.1",
     "tracery": "~0.4.0",
     "mocha": "~1.8.1"
-  },
-  "private": true
+  }
 }

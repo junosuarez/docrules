@@ -3,7 +3,7 @@ pattern matching assertion framework for documents
 
 try it with [tracery](https://npm.im/tracery)!
 
-(work in progress, see `test/example.js` or ask Jason. Not yet ready for public release)
+(work in progress, see `test/example.js` or ask Jason. Not yet ready for public consumption, ymmv)
 
 ## usage
 
